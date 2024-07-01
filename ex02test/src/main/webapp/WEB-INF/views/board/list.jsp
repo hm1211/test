@@ -3,6 +3,8 @@
 <!-- 상대 경로를 유일하게 쓰는 곳 -->
 <%@include file="../includes/header.jsp"%>
 
+<h1>나는 지금 업데이트 중이다</h1>
+
 <div id="page-wrapper">
 	<div class="row">
 		<div class="col-lg-12">
